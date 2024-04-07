@@ -9,7 +9,6 @@
 
 <h3>Build with:</h3>
 
-» Sass / Scss <br>
 » React JS
 
 <h2>Screenshots of the Project 📸</h2>
@@ -17,6 +16,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://drive.google.com/file/d/17CkgRmPV3JnuWPe_HIxFk15_XtaWzOV-/view?usp=sharing'/>
+<img src='./images/Screen1.png'/>
 
 </div>
